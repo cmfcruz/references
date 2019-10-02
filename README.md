@@ -4,6 +4,7 @@ A bunch of documents and notes as my references.  Information gathered through e
 ## Git
 
 - [Always Squash and Rebase your Git Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
+- [Signing your commits using GPG](https://help.github.com/en/articles/managing-commit-signature-verification)
 
 
 ## Python

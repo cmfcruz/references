@@ -19,6 +19,9 @@ A bunch of documents and notes as my references.  Information gathered through e
 - [How to generate string hashes in Python](https://www.pythoncentral.io/hashing-strings-with-python/)
 
 
+## PostgreSQL
+- [How to catch that query that holds onto a table lock](https://hackernoon.com/postgres-idle-queries-and-pg-locks-216b207c3e39)
+
 ## Security
 - [Check the security of your site](https://securityheaders.com)
 

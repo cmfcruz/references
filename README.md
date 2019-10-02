@@ -11,9 +11,11 @@ A bunch of documents and notes as my references.  Information gathered through e
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
 - [Importing modules into your Python code](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
 - [Document requirements by writing your unit tests](https://docs.pytest.org/en/latest/)
-- [How to mock a database connection](https://www.stevenmaude.co.uk/posts/how-to-use-mock-in-python-to-mock)
-- [Another way to mock database connections](https://stackoverflow.com/questions/42945569/python-mock-for-mysql)
-- [How to mock pymysql using unittest](https://stackoverflow.com/questions/39227681/how-do-you-mock-a-return-value-from-pymysql-for-testing-in-python)
+- Mocking Python Objects
+  - https://www.toptal.com/python/an-introduction-to-mocking-in-python
+  - https://www.stevenmaude.co.uk/posts/how-to-use-mock-in-python-to-mock
+  - https://stackoverflow.com/questions/42945569/python-mock-for-mysql
+  - https://stackoverflow.com/questions/39227681/how-do-you-mock-a-return-value-from-pymysql-for-testing-in-python
 - [How to generate string hashes in Python](https://www.pythoncentral.io/hashing-strings-with-python/)
 
 

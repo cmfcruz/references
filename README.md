@@ -8,6 +8,7 @@ A bunch of documents and notes as my references.  Information gathered through e
 
 ## Python
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
+- [Document requirements by writing your unit tests](https://docs.pytest.org/en/latest/)
 
 
 ## Security

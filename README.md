@@ -9,6 +9,7 @@ A bunch of documents and notes as my references.  Information gathered through e
 
 ## Python
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
+- [Importing modules into your Python code](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
 - [Document requirements by writing your unit tests](https://docs.pytest.org/en/latest/)
 - [How to mock a database connection](https://www.stevenmaude.co.uk/posts/how-to-use-mock-in-python-to-mock)
 - [How to mock pymysql using unittest](https://stackoverflow.com/questions/39227681/how-do-you-mock-a-return-value-from-pymysql-for-testing-in-python)

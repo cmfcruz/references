@@ -11,6 +11,7 @@ A bunch of documents and notes as my references.  Information gathered through e
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
 - [Document requirements by writing your unit tests](https://docs.pytest.org/en/latest/)
 - [How to mock a database connection](https://www.stevenmaude.co.uk/posts/how-to-use-mock-in-python-to-mock)
+- [How to generate string hashes in Python](https://www.pythoncentral.io/hashing-strings-with-python/)
 
 
 ## Security

@@ -12,3 +12,6 @@
 
 # Tools
 - [Themes for Visual Studio Code](https://vscodethemes.com)
+
+# Career
+- [Job descriptions and paths of IT-related careers](https://www.cyberdegrees.org)

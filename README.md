@@ -24,10 +24,14 @@ A bunch of documents and notes as my references.  Information gathered through e
 
 ## Security
 - [Check the security of your site](https://securityheaders.com)
+- [Adding security headers using Lambda@Edge](https://aws.amazon.com/blogs/networking-and-content-delivery/adding-http-security-headers-using-lambdaedge-and-amazon-cloudfront/)
 
 
 ## Tools
 - [Themes for Visual Studio Code](https://vscodethemes.com)
+- [Terminal Superpowers: Fish Shell](https://fishshell.com/)
+- [Terminal Superpowers: Starship Cross-Shell Prompt](https://starship.rs/)
+- [Terminal Superpowers: Powerline Fonts](https://github.com/powerline/fonts)
 
 
 ## Career

@@ -17,6 +17,7 @@ A bunch of documents and notes as my references.  Information gathered through e
   - https://stackoverflow.com/questions/42945569/python-mock-for-mysql
   - https://stackoverflow.com/questions/39227681/how-do-you-mock-a-return-value-from-pymysql-for-testing-in-python
 - [How to generate string hashes in Python](https://www.pythoncentral.io/hashing-strings-with-python/)
+- [How to add inline code to Lambda Cloudformation Templates](https://stackoverflow.com/a/54877663/7166760)
 
 
 ## PostgreSQL
